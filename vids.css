@@ -1,0 +1,16 @@
+.vid{
+    margin-top: 5%;
+    display: flex;
+    height: 40vh;
+}
+.detail{
+    width: 500px;
+    height: fit-content;
+    margin: 20px 0px;;
+    padding: 5px 20px;
+}
+.description{
+    margin: 10% 20%;
+    padding: 2% 5%;
+    background-color:goldenrod ;
+}
